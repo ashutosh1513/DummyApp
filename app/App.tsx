@@ -17,7 +17,7 @@ function App() {
   return <SafeAreaView>
     <View style={{height:'100%', width:'100%', justifyContent:"center"}}>
         <Text style={{textAlign:'center', justifyContent:'center'}}>
-          Hello World!
+          Hello World
         </Text>
     </View>
   </SafeAreaView>;
